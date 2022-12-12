@@ -1,23 +1,89 @@
 ## Welcome 😁
 
+const name = 'Rodrigo Monteiro';
+const age = 22;
+
+const status = 
+{ 
+  learning : ['JavaScript', 'React Js', 'C#'],
+  interests: ['Education', 'Research', 'Information Security', 'UI/UX']
+}
+
+const skills = 
+{
+  languages :['Javascript'],
+
+  design: ['css', 'styled components',],
+  
+  frameworks: ['Bootstrap', 'Jest', 'Next Js' ],
+  
+  libraries: ['React Js'],
+}
+
  <div>
    <a href="https://github.com/Rodrigo-Monteiro-Lima">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rodrigo-Monteiro-Lima&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigo-Monteiro-Lima&layout=compact&langs_count=6&theme=tokyonight"/>
 
 </div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://camo.githubusercontent.com/aa85cea585880ae694b4fe8dde116d092b8907d6351c71fcd76f00f7586fad72/68747470733a2f2f74657374696e672d6c6962726172792e636f6d2f696d672f6f63746f7075732d313238783132382e706e67">
+ <h3 align="left">Technologies and tools:</h3>
+<table width="320px">
+    <tbody>
+        <tr valign="top">
+            <td width="80px" align="center">
+            <span><strong>Javascript</strong></span><br>
+            <img height="32px" src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>HTML</strong></span><br>
+            <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>CSS</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>React Js</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+            </td>
+        </tr>
+        <tr valign="top">
+            <td width="80px" align="center">
+            <span><strong>Jest</strong></span><br>
+            <img height="32px" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg">
+            <td width="80px" align="center">
+            <span><strong>RTL</strong></span><br>
+            <img height="32" src="https://testing-library.com/img/octopus-128x128.png">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>git</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>GitHub</strong></span><br>
+            <img height="32px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg">
+            </td>
+        </tr>
+        <tr valign="top">
+            <td width="80px" align="center">
+            <span><strong>Redux</strong></span><br>
+            <img height="32" src="https://cdn.worldvectorlogo.com/logos/redux.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>Node Js</strong></span><br>
+            <img height="32px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>ESLint</strong></span><br>
+            <img height="32px" src="https://www.vectorlogo.zone/logos/eslint/eslint-icon.svg">
+            <td width="80px" align="center">
+            <span><strong>Bootstrap</strong></span><br>
+            <img height="32px" src="https://upload.vectorlogo.zone/logos/getbootstrap/images/987f8f6c-263a-47b1-a85d-853cfca215d9.svg">
+            </td>
+        </tr>
+    </tbody>
+</table>
 
-</div>
  
  <br>
  
