@@ -1,12 +1,12 @@
 ## Welcome 😁
 
+```js
 const name = 'Rodrigo Monteiro';
 const age = 22;
 
 const status = 
 { 
   learning : ['JavaScript', 'React Js', 'C#'],
-  interests: ['Education', 'Research', 'Information Security', 'UI/UX']
 }
 
 const skills = 
@@ -19,6 +19,8 @@ const skills =
   
   libraries: ['React Js'],
 }
+
+```
 
  <div>
    <a href="https://github.com/Rodrigo-Monteiro-Lima">
@@ -70,7 +72,7 @@ const skills =
             <img height="32" src="https://cdn.worldvectorlogo.com/logos/redux.svg">
             </td>
             <td width="80px" align="center">
-            <span><strong>Node Js</strong></span><br>
+            <span><strong>Node</strong></span><br>
             <img height="32px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg">
             </td>
             <td width="80px" align="center">
