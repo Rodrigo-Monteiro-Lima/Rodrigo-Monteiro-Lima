@@ -13,7 +13,7 @@ const skills =
 {
   languages :['Javascript'],
 
-  design: ['css', 'styled components',],
+  design: ['css', 'styled components'],
   
   frameworks: ['Bootstrap', 'Jest', 'Next Js' ],
   
