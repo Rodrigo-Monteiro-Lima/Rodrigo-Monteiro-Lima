@@ -21,8 +21,11 @@ const skills =
 }
 
 ```
+<br>
 
  - 📖 I'm a full-stack web development student at Trybe
+
+<br>
 
  <div>
    <a href="https://github.com/Rodrigo-Monteiro-Lima">
