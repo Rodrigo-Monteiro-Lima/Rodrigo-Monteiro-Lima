@@ -22,6 +22,8 @@ const skills =
 
 ```
 
+ - 📖 I'm a full-stack web development student at Trybe
+
  <div>
    <a href="https://github.com/Rodrigo-Monteiro-Lima">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rodrigo-Monteiro-Lima&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
