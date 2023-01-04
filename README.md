@@ -33,8 +33,8 @@ const skills =
 
  <div>
    <a href="https://github.com/Rodrigo-Monteiro-Lima">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rodrigo-Monteiro-Lima&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigo-Monteiro-Lima&layout=compact&langs_count=11&hide=HLSL,ShaderLab&theme=tokyonight"/>
+   <img height="180em" src="https://github-readme-stats-nu-sable.vercel.app/api?username=Rodrigo-Monteiro-Lima&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats-nu-sable.vercel.app/api/top-langs/?username=Rodrigo-Monteiro-Lima&layout=compact&langs_count=11&hide=HLSL,ShaderLab&theme=tokyonight"/>
 
 </div>
  <h3 align="left">Technologies and tools:</h3>
