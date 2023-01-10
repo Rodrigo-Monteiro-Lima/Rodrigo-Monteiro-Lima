@@ -1,4 +1,4 @@
-## Welcome 😁
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=1500&pause=300&color=0C39F7&multiline=true&width=435&height=89&lines=Hi+It's+Rodrigo+%F0%9F%91%8B%F0%9F%8F%BD%F0%9F%98%8A+;Welcome+To+My+Github)](https://git.io/typing-svg)
 
 <div align="center">
    <img height="380em" src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif"/>
@@ -103,6 +103,6 @@ const skills =
   <a href = "mailto:rodrigoml2395@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rodrigo-monteiro-lima/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/Rodrigo-Monteiro-Lima/Rodrigo-Monteiro-Lima/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Rodrigo-Monteiro-Lima/Rodrigo-Monteiro-Lima/blob/main/dist/github-contribution-grid-snake.svg)
 
 </div>
