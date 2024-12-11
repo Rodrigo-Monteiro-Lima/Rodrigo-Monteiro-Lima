@@ -6,20 +6,20 @@
 
 ```js
 const name = 'Rodrigo Monteiro';
-const age = 23;
+const age = 24;
 
 const status = 
 { 
-  learning : ['JavaScript', 'React Js', 'C#'],
+  learning : ['Java', 'C#'],
 }
 
 const skills = 
 {
-  languages :['Javascript'],
+  languages :['Javascript', 'Python', 'Java', 'C#'],
 
   design: ['css', 'styled components'],
   
-  frameworks: ['Bootstrap', 'Jest', 'Next Js' ],
+  frameworks: ['Bootstrap', 'Jest', 'Next Js', 'Express Js' ],
   
   libraries: ['React Js'],
 }
@@ -27,7 +27,7 @@ const skills =
 ```
 <br>
 
- - 📖 I'm a full-stack web development student at Trybe
+ - 📖 I'm a full-stack web development
 
 <br>
 
