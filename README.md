@@ -6,7 +6,7 @@
 
 ```js
 const name = 'Rodrigo Monteiro';
-const age = 24;
+const age = 26;
 
 const status = 
 { 
@@ -27,7 +27,7 @@ const skills =
 ```
 <br>
 
- - 📖 I'm a full-stack web development
+ - 📖 I'm a full-stack development
 
 <br>
 
